@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+button {
+  background-color: white;
+  border: 1px solid gray;
+  border-radius: 5px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin-left: 20px;
+  padding: 10px;
+  color: gray;
+}
+input {
+  padding: 10px;
+}
+.ButtonBox {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #e0e0e0;
+  padding: 10px 0px;
+}
